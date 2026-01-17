@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\adapters\\deckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\adapters\\deckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\langtogether.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\langtogether.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\controllers\\deckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\controllers\\deckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\adapters\\ideckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\adapters\\ideckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\controllers\\progressdeckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\controllers\\progressdeckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\services\\sm2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\services\\sm2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\models\\progresscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\models\\progresscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\adapters\\progressdeckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\adapters\\progressdeckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\appsettings.json",
+              "RelativeDocumentMoniker": "LangTogether\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\appsettings.json",
+              "RelativeToolTip": "LangTogether\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T15:26:49.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LangTogether\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LangTogether\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T15:25:37.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LangTogether.csproj",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\LangTogether.csproj",
+              "RelativeDocumentMoniker": "LangTogether\\LangTogether.csproj",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\LangTogether.csproj",
+              "RelativeToolTip": "LangTogether\\LangTogether.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T15:54:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LangTogether\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:58:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\DecksController.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Controllers\\DecksController.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\DecksController.cs",
+              "RelativeToolTip": "LangTogether\\Controllers\\DecksController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAADwv7YAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:12:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDeckAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\IDeckAdapter.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Adapters\\IDeckAdapter.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\IDeckAdapter.cs",
+              "RelativeToolTip": "LangTogether\\Adapters\\IDeckAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:12:21.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeckAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\DeckAdapter.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Adapters\\DeckAdapter.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\DeckAdapter.cs",
+              "RelativeToolTip": "LangTogether\\Adapters\\DeckAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:02:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgressDecksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\ProgressDecksController.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Controllers\\ProgressDecksController.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\ProgressDecksController.cs",
+              "RelativeToolTip": "LangTogether\\Controllers\\ProgressDecksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:02:13.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SM2Service.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Services\\SM2Service.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Services\\SM2Service.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Services\\SM2Service.cs",
+              "RelativeToolTip": "LangTogether\\Services\\SM2Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:30:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgressCard.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Models\\ProgressCard.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Models\\ProgressCard.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Models\\ProgressCard.cs",
+              "RelativeToolTip": "LangTogether\\Models\\ProgressCard.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:24:11.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "LangTogether\\Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:24:07.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Program.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Program.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Program.cs",
+              "RelativeToolTip": "LangTogether\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAvwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:22:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "LangTogether\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwLwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:41:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProgressDeckAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\ProgressDeckAdapter.cs",
+              "RelativeDocumentMoniker": "LangTogether\\Adapters\\ProgressDeckAdapter.cs",
+              "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\ProgressDeckAdapter.cs",
+              "RelativeToolTip": "LangTogether\\Adapters\\ProgressDeckAdapter.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:06:56.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
