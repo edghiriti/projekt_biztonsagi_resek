@@ -3,7 +3,6 @@ using LangTogether.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using System.Net;
 
 namespace LangTogether.Adapters
 {
@@ -28,7 +27,6 @@ namespace LangTogether.Adapters
 
         public async Task<bool> AddCardToDeck(Guid deckId, Card card)
         {
-            SanitizeCard(card);
             var deck = await GetDeckByIdAsync(deckId);
             if (deck == null)
             {
@@ -42,14 +40,6 @@ namespace LangTogether.Adapters
 
         public async Task<Guid> CreateDeck(Deck deck, string userId)
         {
-            if (deck.Cards != null)
-            {
-                foreach (var card in deck.Cards)
-                {
-                    SanitizeCard(card);
-                }
-            }
-
             deck.UserId = userId;
             await _context.Decks.AddAsync(deck);
             await _context.SaveChangesAsync();
@@ -80,7 +70,6 @@ namespace LangTogether.Adapters
 
         public async Task<bool> UpdateCard(Card updatedCard)
         {
-            SanitizeCard(updatedCard);
             var card = await _context.Cards.FindAsync(updatedCard.CardId);
             if (card == null)
                 return false;
@@ -94,14 +83,6 @@ namespace LangTogether.Adapters
 
         public async Task<bool> UpdateDeck(Deck updatedDeck)
         {
-            if (updatedDeck.Cards != null)
-            {
-                foreach (var card in updatedDeck.Cards)
-                {
-                    SanitizeCard(card);
-                }
-            }
-
             var deck = await GetDeckByIdAsync(updatedDeck.DeckId);
             if (deck == null)
                 return false;
@@ -119,18 +100,6 @@ namespace LangTogether.Adapters
             return await _context.Decks
                                  .Include(d => d.Cards)
                                  .FirstOrDefaultAsync(d => d.DeckId == deckId);
-        }
-
-        private void SanitizeCard(Card card)
-        {
-            if (!string.IsNullOrEmpty(card.Front))
-            {
-                card.Front = WebUtility.HtmlEncode(card.Front);
-            }
-            if (!string.IsNullOrEmpty(card.Back))
-            {
-                card.Back = WebUtility.HtmlEncode(card.Back);
-            }
         }
 
         public async Task<IList<Deck>> GetUserDecks(string userId)

@@ -122,9 +122,17 @@ function LearningSession() {
         <Typography variant="h4" gutterBottom>Learning Session</Typography>
 
         <Box sx={{ marginTop: 3 }}>
-          <Typography variant="h5">{progressCard.front}</Typography>
+          <Typography 
+              variant="h5" 
+              dangerouslySetInnerHTML={{ __html: progressCard.front }} 
+          />
+
           {showBack && (
-            <Typography variant="h6" sx={{ marginTop: 2, color: 'gray' }}>{progressCard.back}</Typography>
+            <Typography 
+              variant="h6" 
+              sx={{ marginTop: 2, color: 'gray' }}
+              dangerouslySetInnerHTML={{ __html: progressCard.back }}
+            />
           )}
         </Box>
 
