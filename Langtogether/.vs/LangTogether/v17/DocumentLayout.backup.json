@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\adapters\\deckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\adapters\\deckadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|solutionrelative:langtogether\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A055B3F-5E50-475A-88E1-C1DDA54114C9}|LangTogether\\LangTogether.csproj|c:\\users\\ghiriti edmond\\documents\\system_security\\langtogether\\langtogether\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,15 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\appsettings.json",
               "RelativeDocumentMoniker": "LangTogether\\appsettings.json",
@@ -82,11 +78,12 @@
               "RelativeToolTip": "LangTogether\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T15:26:49.405Z"
+              "WhenOpened": "2026-01-16T15:26:49.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LangTogether\\Properties\\launchSettings.json",
@@ -110,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LangTogether\\Data\\AppDbContext.cs",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "LangTogether\\Data\\AppDbContext.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:58:31.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T08:58:31.365Z"
             },
             {
               "$type": "Document",
@@ -147,16 +143,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DeckAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\DeckAdapter.cs",
               "RelativeDocumentMoniker": "LangTogether\\Adapters\\DeckAdapter.cs",
               "ToolTip": "C:\\Users\\Ghiriti Edmond\\Documents\\System_Security\\Langtogether\\LangTogether\\Adapters\\DeckAdapter.cs",
               "RelativeToolTip": "LangTogether\\Adapters\\DeckAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:02:44.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T15:02:44.65Z"
             },
             {
               "$type": "Document",
@@ -228,8 +223,7 @@
               "RelativeToolTip": "LangTogether\\Controllers\\GroupsController.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAIwLwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T09:41:53.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T09:41:53.16Z"
             },
             {
               "$type": "Document",
@@ -242,6 +236,10 @@
               "ViewState": "AQIAADwAAAAAAAAAAAAQwEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T06:06:56.956Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
