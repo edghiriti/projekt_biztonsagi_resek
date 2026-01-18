@@ -122,22 +122,10 @@ function LearningSession() {
         <Typography variant="h4" gutterBottom>Learning Session</Typography>
 
         <Box sx={{ marginTop: 3 }}>
-          {/* --- ITT A MÓDOSÍTÁS (A HIBA) --- */}
-        {/* A biztonságos {progressCard.front} helyett dangerouslySetInnerHTML-t használunk */}
-        <Typography 
-            variant="h5" 
-            dangerouslySetInnerHTML={{ __html: progressCard.front }} 
-        />
-
-        {showBack && (
-           /* Ugyanez a hátoldalra is, ha ott is támadni akarsz */
-          <Typography 
-            variant="h6" 
-            sx={{ marginTop: 2, color: 'gray' }}
-            dangerouslySetInnerHTML={{ __html: progressCard.back }}
-          />
-        )}
-        {/* ------------------------------- */}
+          <Typography variant="h5">{progressCard.front}</Typography>
+          {showBack && (
+            <Typography variant="h6" sx={{ marginTop: 2, color: 'gray' }}>{progressCard.back}</Typography>
+          )}
         </Box>
 
         {!showBack ? (
